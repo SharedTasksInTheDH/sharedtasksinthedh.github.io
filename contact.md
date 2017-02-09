@@ -8,6 +8,14 @@ This initiative is initiated by
 
 ## Jannik Strötgen
 
+Jannik Strötgen is a postdoctoral researcher at the Max Planck Institute for Informatics in Saarbrücken. He studied computational linguistics and economics (Magister Artium, 2009) and did his PhD in computer science (2015) at Heidelberg University, where he also worked as a research assistant at the Computer Science department (2010-2015). His research focusses on information extraction, information retrieval, and NLP for the digital humanities. His PhD thesis was on *Domain-sensitive Temporal Tagging for Event-centric Information Retrieval* ([link](http://archiv.ub.uni-heidelberg.de/volltextserver/18357/1/thesis.pdf)), in which context the multilingual and domain-sensitive termporal tagger HeidelTime was developed ([link](https://github.com/HeidelTime/heideltime/)).
+
+E-Mail: `jannik.stroetgen@mpi-inf.mpg.de`
+
+Website: [`people.mpi-inf.mpg.de/~jstroetge/`](https://people.mpi-inf.mpg.de/~jstroetge/)
+
+Twitter: [`@jannikstroetgen`](http://twitter.com/jannikstroetgen)
+
 ## Nils Reiter
 
 Nils Reiter studied Computational Linguistics at Saarland University. He did his PhD thesis at Heidelberg University and works as a Post-Doc at the Institute for Natural Language Processing (IMS) at Stuttgart University. Since his thesis with the title *Discovering Structural Similarities in Narrative Texts using Event Alignment Algorithms* ([Link](http://www.ub.uni-heidelberg.de/archiv/17042)), he is working in and for the Digital Humanities area(s).
