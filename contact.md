@@ -27,9 +27,11 @@ Twitter: [`@jannikstroetgen`](http://twitter.com/jannikstroetgen)
 
 ### Nils Reiter
 
-Nils Reiter studied Computational Linguistics at Saarland University. He did his PhD thesis at Heidelberg University and works as a Post-Doc at the Institute for Natural Language Processing (IMS) at Stuttgart University. Since his thesis with the title *Discovering Structural Similarities in Narrative Texts using Event Alignment Algorithms* ([Link](http://www.ub.uni-heidelberg.de/archiv/17042)), he is working in and for the Digital Humanities area(s).
+Nils Reiter studied Computational Linguistics at Saarland University. He did his PhD thesis at Heidelberg University and works as a Post-Doc at the Institute for Natural Language Processing (IMS) at Stuttgart University. Since his thesis with the title *Discovering Structural Similarities in Narrative Texts using Event Alignment Algorithms* ([Link](http://www.ub.uni-heidelberg.de/archiv/17042)), he is working in and for  Digital Humanities, interested in literary texts, annotation and the operationalization of Humanities research questions.
 
 E-Mail: `nils.reiter@ims.uni-stuttgart.de`
+
+GitHub: [`nilsreiter`](https://github.com/nilsreiter)
 
 Twitter: [`@nilsreiter`](http://twitter.com/nilsreiter)
 
@@ -43,3 +45,8 @@ E-Mail: `Marcus.Willand@ilw.uni-stuttgart.de`
 Website: [`marcuswilland.de`](http://www.marcuswilland.de)
 
 Twitter: [`@marcus_willand`](https://twitter.com/Marcus_Willand)
+
+## Advisory Board
+
+- [Jan Christoph Meister](https://www.slm.uni-hamburg.de/germanistik/personen/meister.html), Hamburg University
+- [Jonas Kuhn](http://www.ims.uni-stuttgart.de/~jonas/), Stuttgart University
