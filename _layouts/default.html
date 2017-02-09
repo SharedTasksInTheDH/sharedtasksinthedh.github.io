@@ -12,14 +12,19 @@
         <div class="colophon">
           <ul class="colophon-links">
             <li>
-              <a href="{{ site.baseurl }}{% link _posts/2017-02-08-proposal.md %}">Proposal</a>
+              <a href="{{ site.baseurl }}{% link _posts/2016-01-01-proposal.md %}">Proposal</a>
             </li>
+            {% assign page_list = site.pages | sort: 'index' %}
+            {% for page in page_list %}
             <li>
-              <a href="{{ site.baseurl }}{% link _posts/2017-02-08-interact.md %}">Interact &amp; Contribute</a>
+              <a href="{{ page.url }}">
+                {% if page.mtitle %}
+                {{ page.mtitle }}
+                {% else %}
+                {{ page.title }}</a>
+                {% endif %}
             </li>
-            <li>
-              <a href="{{site.baseurl}}/contact">Contact</a>
-            </li>
+            {% endfor %}
           </ul>
         </div>
       </div>
