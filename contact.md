@@ -6,6 +6,14 @@ This initiative is initiated by
 
 ## Evelyn Gius
 
+Evelyn Gius studied German language and literature, philosophy and computer science at Hamburg University and the Istituto Orientale in Naples from 1999-2004. After two years in an institute for mediation and conflict management she returned to university in 2016. She has been working on a number of Digital Humanities-related projects at Hamburg University since then. Her PhD (2008-2014) was on the narrative structure of conflict narratives ([link](https://www.degruyter.com/view/product/455682)). 
+
+E-Mail: `evelyn.gius@uni-hamburg.de`
+
+Website: [`www.slm.uni-hamburg.de/germanistik/personen/gius.html`](https://www.slm.uni-hamburg.de/germanistik/personen/gius.html)
+
+
+
 ## Jannik Strötgen
 
 Jannik Strötgen is a postdoctoral researcher at the Max Planck Institute for Informatics in Saarbrücken. He studied computational linguistics and economics (Magister Artium, 2009) and did his PhD in computer science (2015) at Heidelberg University, where he also worked as a research assistant at the Computer Science department (2010-2015). His research focusses on information extraction, information retrieval, and NLP for the digital humanities. His PhD thesis was on *Domain-sensitive Temporal Tagging for Event-centric Information Retrieval* ([link](http://archiv.ub.uni-heidelberg.de/volltextserver/18357/1/thesis.pdf)), in which context the multilingual and domain-sensitive termporal tagger HeidelTime was developed ([link](https://github.com/HeidelTime/heideltime/)).
