@@ -1,11 +1,7 @@
 ---
-layout: post
+layout: page
 title: Interact
-author:
-- Nils Reiter
-- Evelyn Gius
-- Jannik Strötgen
-- Marcus Willand
+index: 0
 ---
 
 Any kind of feedback is best left on github as an [issue](https://github.com/SharedTasksInTheDH/sharedtasksinthedh.github.io/issues).
