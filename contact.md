@@ -6,7 +6,7 @@ This initiative is initiated by
 
 ## Evelyn Gius
 
-Evelyn Gius studied German language and literature, philosophy and computer science at Hamburg University and the Istituto Orientale in Naples from 1999-2004. After two years in an institute for mediation and conflict management she returned to university in 2016. She has been working on a number of Digital Humanities-related projects at Hamburg University since then. Her PhD (2008-2014) was on the narrative structure of conflict narratives ([link](https://www.degruyter.com/view/product/455682)). 
+Evelyn Gius studied German language and literature, philosophy and computer science at Hamburg University and the Istituto Orientale in Naples from 1999-2004. After two years in an institute for mediation and conflict management she returned to university in 2006. She has been working on a number of Digital Humanities-related projects at Hamburg University since then. Her PhD (2008-2014) was on the narrative structure of conflict narratives ([link](https://www.degruyter.com/view/product/455682)). 
 
 E-Mail: `evelyn.gius@uni-hamburg.de`
 
