@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+index: 100
 ---
 ## Organizers
 
