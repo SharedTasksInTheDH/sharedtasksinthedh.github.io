@@ -19,4 +19,4 @@ Any kind of feedback is best left on github as an [issue](https://github.com/Sha
 
 ### E-Mail
 
-Please send e-mails to [Nils](mailto:nils.reiter@ims.uni-stuttgart.de).
+Please send e-mails to [Nils](mailto:nils.reiter@ims.uni-stuttgart.de?subject=Shared Tasks in the Digital Humanities) for the moment. We will set up a mailing list soonish.
