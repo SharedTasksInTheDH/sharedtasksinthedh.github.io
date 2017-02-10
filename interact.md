@@ -4,6 +4,12 @@ title: Interact
 index: 0
 ---
 
-Any kind of feedback is best left on github as an [issue](https://github.com/SharedTasksInTheDH/sharedtasksinthedh.github.io/issues).
+There are multiple ways to contact us for any kind of feedback, questions or contributions
 
-There are still some details that need to be ironed out before actually starting this shared task and we will coordinate these on this very web page.
+## GitHub Issues
+
+Any kind of feedback is best left on github as an [issue](https://github.com/SharedTasksInTheDH/sharedtasksinthedh.github.io/issues), we plan to use github as a primary means of communication throughout the shared tasks.
+
+## E-Mail
+
+Please send e-mails to [Nils](mailto:nils.reiter@ims.uni-stuttgart.de).
