@@ -51,5 +51,6 @@ index: 100
 
 ## Advisory Board
 
-- [Jan Christoph Meister](https://www.slm.uni-hamburg.de/germanistik/personen/meister.html), Hamburg University
+- [Fotis Jannidis](http://www.jannidis.de)
 - [Jonas Kuhn](http://www.ims.uni-stuttgart.de/~jonas/), Stuttgart University
+- [Jan Christoph Meister](https://www.slm.uni-hamburg.de/germanistik/personen/meister.html), Hamburg University
