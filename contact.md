@@ -51,6 +51,6 @@ index: 100
 
 ## Advisory Board
 
-- [Fotis Jannidis](http://www.jannidis.de)
+- [Fotis Jannidis](http://www.jannidis.de), Würzburg University
 - [Jonas Kuhn](http://www.ims.uni-stuttgart.de/~jonas/), Stuttgart University
 - [Jan Christoph Meister](https://www.slm.uni-hamburg.de/germanistik/personen/meister.html), Hamburg University
