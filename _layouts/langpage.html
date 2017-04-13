@@ -1,0 +1,15 @@
+---
+layout: page
+lang: en
+---
+
+<ul class="posts">
+
+	{% for post in site.posts %}
+		{% if post.lang == page.lang %}
+			{% include date.html date=post.date lang=post.lang%}
+			{% include teaser.html post=post %}
+			<div style="clear:both;"></div>
+		{% endif %}
+	{% endfor %}
+</ul>

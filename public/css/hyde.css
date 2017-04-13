@@ -255,6 +255,7 @@ a:focus {
 }
 .colophon-links li {
   color: inherit;
+  font-weight: lighter;
 }
 
 /* Responsive masthead */

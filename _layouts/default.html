@@ -17,7 +17,7 @@
             <li>
               <a href="{{ site.baseurl }}{% link _posts/2017-03-31-final-version.md %}">Concept</a>
             </li>
-            {% assign page_list = site.pages | sort: 'index' %}
+            {% assign page_list = site.pages | sort: 'index' | where: "add_to_menu","true" %}
             {% for page in page_list %}
             <li>
               <a href="{{ page.url }}">

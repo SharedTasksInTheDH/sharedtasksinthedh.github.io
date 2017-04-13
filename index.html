@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: page
 ---
 
 <p>This page is the central hub for the initiative for shared tasks in the Digital Humanities. You'll find most recent news below, older posts and more information can be reached via the sidebar on the left.</p>
 
 <h1>Latest Posts</h1>
 <ul class="posts">
-  {% for post in site.posts | limit: 1 %}
+  {% for post in site.posts offset: 0 limit: 1 %}
   {% include date.html date=post.date lang=post.lang%}
 	{% include teaser.html post=post %}
   {% endfor %}

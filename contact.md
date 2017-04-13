@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 index: 100
+add_to_menu: true
 ---
 
 ## Organizers
