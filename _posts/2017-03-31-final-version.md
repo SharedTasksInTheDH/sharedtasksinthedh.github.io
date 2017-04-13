@@ -2,10 +2,10 @@
 layout: post
 title: A Shared Task for a Shared Goal — Systematic Annotation of Literary Texts
 author:
-- Nils Reiter
-- Evelyn Gius
-- Jannik Strötgen
-- Marcus Willand
+- reiter
+- gius
+- strötgen
+- willand
 logo:
   url: /assets/generic/15383638574_240d9ff26e_m.jpg
   src:

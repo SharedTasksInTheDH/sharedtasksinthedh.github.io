@@ -86,3 +86,63 @@ div.postlogo p.legal {
 	font-size: 8px;
 	text-align:right;
 }
+
+table {
+  border-collapse: collapse;
+  margin-bottom:20px;
+}
+
+table td {
+  padding-right:20px;
+}
+ table > thead > tr  {
+   padding-top:3px;
+   padding-bottom: 1px;
+   border-top:thin solid #454441;
+   border-bottom:thin solid #454441;
+ }
+ table > tbody > tr:last-child {
+   border-bottom:thin solid #454441;
+   padding-bottom:1px;
+ }
+
+/**
+ * print view
+ */
+
+
+
+@media print {
+  body {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 10pt !important;
+    widows: 5;
+    orphans: 5;
+  }
+
+  .masthead {
+    display:none;
+  }
+
+  .container {
+    margin-left: 0in;
+    margin-right: 0in;
+  }
+
+  .postlogo {
+    display:none;
+  }
+
+  p {
+    text-align:justify;
+  }
+
+
+
+  @page {
+    width:6.3in;
+    margin-left: 1in;
+    margin-right: 1in;
+    margin-top:1.5in;
+  }
+}
