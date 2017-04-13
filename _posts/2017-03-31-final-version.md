@@ -7,7 +7,7 @@ author:
 - Jannik Strötgen
 - Marcus Willand
 logo:
-  url: /assets/generic/15383638574_24c3a364de_o.jpg
+  url: /assets/generic/15383638574_24c3a364de_m.jpg
   src:
     desc: "CC vickysandoval22"
     url: https://www.flickr.com/photos/115327016@N06/15383638574/
