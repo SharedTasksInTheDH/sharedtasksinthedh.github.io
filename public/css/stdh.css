@@ -1,0 +1,88 @@
+.headline {
+  font-size: 0.9rem;
+  color:#909090;
+  margin-top:0px !important;
+  margin-bottom:0px !important;
+}
+.headline .left {
+  float:left;
+}
+.headline .right {
+  float:right;
+}
+
+a.catlink {
+  color: #909090 !important;
+}
+
+.post h1.subtitle {
+	font-size: 32px;
+}
+
+.post h2 {
+  margin-top:50px;
+}
+
+ul.posts {
+  list-style: none;
+  padding-left:0;
+}
+
+ul.posts li {
+  clear:left;
+  height:100%;
+  margin-bottom:35px;
+	margin-top:20px;
+}
+
+ul.posts li div {
+  /*margin-top:20px;
+  margin-bottom:20px;*/
+}
+
+ul.posts li p {
+  margin-bottom:3px;
+}
+
+ul.posts li p.date {
+  font-size:0.8rem;
+  color:#999;
+}
+
+
+ul.posts li p.title {
+  font-size:1.1rem;
+}
+
+ul.posts li div.logo a img {
+	border:0;
+}
+
+ul.posts li div img {
+  position:relative;
+  top:5px;
+  border:thin solid #454545;
+  float:left;
+  width:auto;
+  margin-right:20px;
+  max-width:150px;
+  max-height:120px;
+}
+
+div.postlogo {
+	position:relative;
+	top:50px;
+	float:right;
+	margin-left:20px;
+}
+
+div.postlogo img {
+	border:0;
+  max-width: 150px;
+  max-height: 150px;
+}
+
+div.postlogo p.legal {
+	font-size: 8px;
+	text-align:right;
+}

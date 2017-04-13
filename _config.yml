@@ -6,3 +6,4 @@ author:
   name:       ''
   email:      ''
 permalink:    pretty
+excerpt_separator: <!--more-->

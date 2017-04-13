@@ -68,9 +68,9 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 10px;
-  font-weight: 600;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
+  font-weight:lighter;
 }
 h1 {
   font-size: 40px;
@@ -177,7 +177,7 @@ blockquote p:after {
 
 img {
   display: block;
-  margin: 0 0 15px;
+  margin: 0 0 0;
   border-radius: 5px;
 }
 
@@ -207,7 +207,6 @@ img {
  */
 
 a {
-  font-weight: 600;
   color: #222;
   text-decoration: none;
 }
