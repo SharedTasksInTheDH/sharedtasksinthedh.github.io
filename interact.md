@@ -7,7 +7,7 @@ add_to_menu: true
 
 ## Spread the Word
 
-<div style="float:right;margin-left:20px;"><img src="{{site.baseurl}}/assets/generic/qr.png" /></div>
+<div style="float:right;margin-left:20px;"><img style="border-radius:0" src="{{site.baseurl}}/assets/generic/qr.png" /></div>
 
 The entire idea depends on a large enough community interested in participating. Please help spread the word in your community, e.g., by pointing potentially interested researchers to this website. A short URL for this web page is [`http://tinyurl.com/stdighum`](http://tinyurl.com/stdighum). Alternatively, you can use this QR code:
 
