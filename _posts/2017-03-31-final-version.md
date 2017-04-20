@@ -103,7 +103,7 @@ Thomas Bögel, Michael Gertz, Evelyn Gius, Janina Jacke, Jan Christoph Meister, 
 
 Gérard Genette. Narrative Discourse. An Essay in Method. Ithaca, N.Y: Cornell University Press, 1980.
 
-Evelyn Gius and Jacke, Janina. The Hermeneutic Profit of Annotation. On preventing and fostering disagreement in literary text analysis. International Journal of Humanities and Arts Computing, forthcoming.
+Evelyn Gius and Janina Jacke. The Hermeneutic Profit of Annotation. On preventing and fostering disagreement in literary text analysis. International Journal of Humanities and Arts Computing, forthcoming.
 
 Eduard Hovy and Julia Lavid. Towards a ‘science’ of corpus annotation: A new methodological challenge for corpus linguistics. International Journal of Translation Studies, 22(1), January 2010.
 
@@ -117,7 +117,7 @@ John Pier. Narrative Levels (revised version; uploaded 23 April 2014). In Peter 
 
 Nils Reiter. Towards annotating narrative segments. In Kalliopi Zervanou, Marieke van Erp, and Beatrice Alex, editors, Proceedings of the 9th SIGHUM Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH), pages 34–38, Beijing, China, July 2015. Association for Computational Linguistics, Association for Computational Linguistics. URL http://www.aclweb.org/anthology/W15-3705.
 
-Annotation Guidelines
+### Annotation Guidelines
 Lynn Carlson and Daniel Marcu. Discourse tagging reference manual. Annotation Manual, University of Southern California, 2001. URL https://www.isi.edu/ marcu/discourse/tagging-ref-manual.pdf.
 
 Lisa Ferro, Laurie Gerber, Inderjeet Mani, Beth Sundheim, and George Wilson. TIDES 2005
