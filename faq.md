@@ -29,4 +29,4 @@ Yes. Phase 1 requires no technical skills at all. Conversely, participation in P
 No, not always. You will have to submit annotations to the organizers in digital form. Apart from that, you're free to develop the annotation guidelines using paper-based annotations.
 
 ## Are there annotation tools that I could use?
-Yes. There is [CATMA](http://catma.de), [WebAnno](https://webanno.github.io), [brat](http://brat.nlplab.org) and many others. At some point, the annotations will need to be converted into a single format in order to being compared, but that's a solvable problem.
+Yes. There is [CATMA](http://catma.de), [WebAnno](https://webanno.github.io), [brat](http://brat.nlplab.org), [SWAN](https://github.com/annefried/swan) and many others. At some point, the annotations will need to be converted into a single format in order to being compared, but that's a solvable problem.
