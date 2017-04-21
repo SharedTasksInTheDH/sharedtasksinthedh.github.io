@@ -21,3 +21,12 @@ Yes, absolutely. You can even integrate this with a seminar and participate with
 
 ## Why should I take part in this?
 Because working collaboratively on annotation guidelines fosters the advancement of definitions of narratological concepts. This in turn is a prerequisite for manual and automatic large-scale analyses. In addition, all submitted and created work will be publicly available and citable as publications.
+
+## Can I participate in only one phase?
+Yes. Phase 1 requires no technical skills at all. Conversely, participation in Phase 2 does not require knowledge of narratology.
+
+## Do I have to use a computer to make annotations?
+No, not always. You will have to submit annotations to the organizers in digital form. Apart from that, you're free to develop the annotation guidelines using paper-based annotations.
+
+## Are there annotation tools that I could use?
+Yes. There is [CATMA](http://catma.de), [WebAnno](https://webanno.github.io), [brat](http://brat.nlplab.org) and many others. At some point, the annotations will need to be converted into a single format in order to being compared, but that's a solvable problem.
