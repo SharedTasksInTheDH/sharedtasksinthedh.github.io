@@ -11,6 +11,9 @@ add_to_menu: true
 
 The entire idea depends on a large enough community interested in participating. Please help spread the word in your community, e.g., by pointing potentially interested researchers to this website. A short URL for this web page is [`http://tinyurl.com/stdighum`](http://tinyurl.com/stdighum). Alternatively, you can use this QR code:
 
+### Flyer
+For easier distribution, we have created a [flyer]({{site.baseurl}}/assets/generic/Flyer_2017-04-24.pdf) that contains the most important facts. Feel free to share it in whatever way you like. 
+
 ## Reach us
 
 There are multiple ways to contact us for any kind of feedback, questions or contributions.
