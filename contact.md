@@ -26,6 +26,7 @@ add_to_menu: true
 
 ## Advisory Board
 
+- [Janina Jacke](https://www.slm.uni-hamburg.de/germanistik/personen/jacke.html), Hamburg University
 - [Fotis Jannidis](http://www.jannidis.de), Würzburg University
 - [Jonas Kuhn](http://www.ims.uni-stuttgart.de/~jonas/), Stuttgart University
 - [Jan Christoph Meister](https://www.slm.uni-hamburg.de/germanistik/personen/meister.html), Hamburg University
