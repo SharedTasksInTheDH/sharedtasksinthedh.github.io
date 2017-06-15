@@ -5,6 +5,11 @@ index: 0
 add_to_menu: true
 ---
 
+## Participate
+
+Please register for [our email list: `sharedtasksinthedh@listserv.uni-stuttgart.de`](https://listserv.uni-stuttgart.de/mailman/listinfo/sharedtasksinthedh). The list serves both as a registration and communication tool, in all directions.
+
+
 ## Spread the Word
 
 <div style="float:right;margin-left:20px;"><img style="border-radius:0" src="{{site.baseurl}}/assets/generic/qr.png" /></div>
@@ -19,9 +24,6 @@ For easier distribution, we have created a [flyer]({{site.baseurl}}/assets/gener
 
 <div style="clear:both;">&nbsp;</div>
 
-## Reach us
-
-There are multiple ways to contact us for any kind of feedback, questions or contributions.
 
 ### GitHub Issues
 

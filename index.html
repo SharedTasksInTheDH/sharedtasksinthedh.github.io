@@ -7,7 +7,7 @@ layout: page
 <h1 style="margin-top:100px;">Latest Posts</h1>
 
 <ul class="posts">
-  {% for post in site.posts offset: 0 limit: 1 %}
+  {% for post in site.posts offset: 0 limit: 2 %}
   {% include date.html date=post.date lang=post.lang%}
 	{% include teaser.html post=post %}
   {% endfor %}
