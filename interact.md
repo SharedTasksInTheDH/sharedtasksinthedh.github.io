@@ -29,6 +29,3 @@ For easier distribution, we have created a [flyer]({{site.baseurl}}/assets/gener
 
 Any kind of feedback is best left on github as an [issue](https://github.com/SharedTasksInTheDH/sharedtasksinthedh.github.io/issues), we plan to use github as a primary means of communication throughout the shared tasks.
 
-### E-Mail
-
-Please send e-mails to [Nils](mailto:nils.reiter@ims.uni-stuttgart.de?subject=Shared Tasks in the Digital Humanities) for the moment. We will set up a mailing list soonish.
