@@ -16,7 +16,7 @@ Please register for [our email list: `sharedtasksinthedh@listserv.uni-stuttgart.
 
 The entire idea depends on a large enough community interested in participating. Please help spread the word in your community, e.g., by pointing potentially interested researchers to this website. A short URL for this web page is [`http://tinyurl.com/stdighum`](http://tinyurl.com/stdighum). Alternatively, you can use this QR code:
 
-<div style="float:left;margin-right:20px;"><a href="{{site.baseurl}}/assets/generic/Flyer_2017-04-24.pdf"><img src="{{site.baseurl}}/assets/generic/Flyer_2017-04-24_thumb.png" /></a></div>
+<div style="float:left;margin-right:20px;"><a href="{{site.baseurl}}/assets/generic/Flyer_2017-07-17.pdf"><img src="{{site.baseurl}}/assets/generic/Flyer_2017-04-24_thumb.png" /></a></div>
 ### Flyer
 
 
