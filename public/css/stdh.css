@@ -26,6 +26,7 @@ a.catlink {
   margin-top:50px;
 }
 
+.page .content a,
 .post .content a {
 	text-decoration:underline;
 }
