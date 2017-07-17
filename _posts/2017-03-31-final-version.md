@@ -125,7 +125,7 @@ Standard for the Annotation of Temporal Expressions. Technical report, The MITRE
 Corporation, 2005.
 
 Evelyn Gius and Janina Jacke. Zur Annotation narratologischer Kategorien der
-zeit. Annotation Manual 2.0, Hamburg University, November 2016. URL http://heureclea.de/guidelines
+Zeit. Annotation Manual 2.0, Hamburg University, November 2016. URL http://heureclea.de/guidelines
 
 Beatrice Santorini. Penn treebank: Part-of-speech tagging. Annotation Manual 3, University of Pennsylvania, 1992. URL ftp://ftp.cis.upenn.edu/pub/treebank/doc/tagguide.ps.gz.
 
