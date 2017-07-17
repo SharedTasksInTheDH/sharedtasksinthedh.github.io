@@ -71,3 +71,6 @@ We will detail our plans for the workshop more concretely in a future blog post.
 	<tr><td>August/September 2018</td><td>Workshop</td></tr>
 </tbody>
 </table>
+
+## Questions?
+As always, if you have comments, questions, or suggestions, feel free to post them to [our mailing list]({{site.baseurl}}/interact).
