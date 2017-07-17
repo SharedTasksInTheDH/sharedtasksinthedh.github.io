@@ -1,5 +1,10 @@
 <li lang="{{ post.lang }}">
   <div class="headline">
+	{% if post.phase %}
+	<div class="left">
+		<a href="{{site.baseurl}}/blog/phase{{post.phase}}/"><img src="https://img.shields.io/badge/phase-{{post.phase}}-{{site.shcolor}}.svg" alt="Phase {{post.phase}}"/></a>
+	</div>
+	{% endif %}
     <div class="left">
       {% if post.categories[0] %}
         {% include categories.html categories=post.categories %} •
