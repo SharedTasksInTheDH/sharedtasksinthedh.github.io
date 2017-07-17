@@ -71,13 +71,13 @@ ul.posts li div img {
 
 div.postlogo {
 	position:relative;
-	top:50px;
+	top:0px;
 	float:right;
 	margin-left:20px;
 }
 
 div.postlogo img {
-	border:0;
+  border:0;
   max-width: 150px;
   max-height: 150px;
 }
@@ -127,6 +127,7 @@ table td {
   .container {
     margin-left: 0in;
     margin-right: 0in;
+	width:95%;
   }
 
   .postlogo {
