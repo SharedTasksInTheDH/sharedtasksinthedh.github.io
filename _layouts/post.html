@@ -18,11 +18,11 @@ layout: default
     <div style="clear:both;"></div>
   </div>
   {% if page.author %}
-    <p>{% for a in page.author %}
+    <div>{% for a in page.author %}
         {{ site.data.people[a].name }}
         {% if forloop.last == false %}
         &bullet;{%endif%}
-        {% endfor %}</p>
+        {% endfor %}</div>
   {% endif %}
   <h1 class="post-title">{{ page.title }}</h1>
 
@@ -30,7 +30,7 @@ layout: default
   <div class="postlogo" >
     <img src="{{ page.logo.url }}" />
     {% if page.logo.src %}
-    <p class="legal"><a href="{{ page.logo.src.url }}">{{ page.logo.src.desc }}</a></p>
+    <div class="legal"><a href="{{ page.logo.src.url }}">{{ page.logo.src.desc }}</a></div>
     {% endif %}
   </div>
   {% endif %}

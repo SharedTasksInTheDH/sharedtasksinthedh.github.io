@@ -26,8 +26,8 @@ a.catlink {
   margin-top:50px;
 }
 
-.page .content a,
-.post .content a {
+.page .content p a,
+.post .content p a {
 	text-decoration:underline;
 }
 
@@ -52,13 +52,13 @@ ul.posts li p {
   margin-bottom:3px;
 }
 
-ul.posts li p.date {
+ul.posts li div.date {
   font-size:0.8rem;
   color:#999;
 }
 
 
-ul.posts li p.title {
+ul.posts li div.title {
   font-size:1.1rem;
 }
 
@@ -90,7 +90,7 @@ div.postlogo img {
   max-height: 150px;
 }
 
-div.postlogo p.legal {
+div.postlogo div.legal {
 	font-size: 8px;
 	text-align:right;
 }
