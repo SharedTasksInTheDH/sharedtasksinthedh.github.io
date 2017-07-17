@@ -17,7 +17,7 @@ Three major reasons: First, narrative levels are everywhere in a text (every wor
 Shared tasks are a workshop framework popular in natural language processing (NLP). In NLP, different participant teams develop systems that all solve the same task. Due to previously set standards and evaluation data sets, the performance results are directly comparable. This gives insight which systems are able to solve a task.
 
 ## Can I participate in/with a group?
-Yes, absolutely. You can even integrate this with a seminar and participate with a student group.
+Yes, absolutely. You can even integrate this with a seminar and participate with a student group. If you plan to do so, consider getting in touch with us. We can provide you with advice and in some cases even with teaching material.
 
 ## Why should I take part in this?
 Because working collaboratively on annotation guidelines fosters the advancement of definitions of narratological concepts. This in turn is a prerequisite for manual and automatic large-scale analyses. In addition, all submitted and created work will be publicly available and citable as publications.
