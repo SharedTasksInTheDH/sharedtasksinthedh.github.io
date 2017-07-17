@@ -23,6 +23,8 @@ lang: en
 
 This is the finally submitted version of the our abstract and will be published in the conference proceedings of DH 2017. It will also serve as the basis for our talk.
 
+**We leave this page as it is, since it is identical to the abstract appearing in the Book of Abstract of DH 2017. However, some information on this page is no longer valid (e.g., the time plan).** 
+
 ## Contents
 {:.no_toc}
 
