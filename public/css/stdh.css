@@ -10,6 +10,9 @@
 .headline .right {
   float:right;
 }
+.headline img {
+	border:0 !important;
+}
 
 a.catlink {
   color: #909090 !important;
