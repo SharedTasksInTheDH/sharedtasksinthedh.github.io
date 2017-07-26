@@ -21,7 +21,7 @@ reiter:
   - desc: Website
     name: nilsreiter.de
     url: http://nilsreiter.de
-  bio: After studying Computational Linguistics at Saarland University, Nils Reiter did his [PhD thesis](http://www.ub.uni-heidelberg.de/archiv/17042) at Heidelberg University. He now works as a Post-Doc at the Institute for Natural Language Processing (IMS) at Stuttgart University, and, among other things, coordinates the [Center for Reflected Text Analytics](http://www.creta.uni-stuttgart.de). He is mostly interested in computational literary studies, processing literary texts, annotation and the operationalization of Humanities research questions.
+  bio: After studying Computational Linguistics at Saarland University, Nils Reiter did his [PhD thesis](http://www.ub.uni-heidelberg.de/archiv/17042) at Heidelberg University. He now works as a Post-Doc at the Institute for Natural Language Processing (IMS) at Stuttgart University, and, among other things, coordinates the [Center for Reflected Text Analytics (CRETA)](http://www.creta.uni-stuttgart.de). He is mostly interested in computational literary studies, processing literary texts, annotation and the operationalization of Humanities research questions.
 strötgen:
   name: Jannik Strötgen
   email: jannik.stroetgen@mpi-inf.mpg.de
