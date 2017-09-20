@@ -15,11 +15,12 @@ excerpt: "This article describes where to start and how to proceed when developi
 
 
 
-Developing annotation guidelines is an iterative process: Once a first version has been established, its shortcomings need to be identified and fixed, leading to a second version, which has shortcomings that need to be identified and fixed, etc. This process is displayed schematically in Figure 1. We will describe how to create a first version, and how to come from one version to the next. The most important idea is that in each round, **the same text is annotated by multiple annotators independently**. This is the main device that allows to identify these shortcomings.
+Developing annotation guidelines is an iterative process: Once a first version has been established, its shortcomings need to be identified and fixed, leading to a second version, which has shortcomings that need to be identified and fixed, etc. This process is displayed schematically in Figure 1. We will describe how to create a first version, and how to come from one version to the next. The most important idea is that in each round, **the same text is annotated by multiple annotators independently**. This is the main device that allows identifying these shortcomings.
 
 <div><img src="{{ site.url }}/assets/generic/annotation-workflow.png" style="width:70%" alt="Flowchart depicting the general annotation workflow"/><p class="caption">Figure 1: General annotation workflow</p></div>
 
-Please note that we do not make assumptions on whether the annotations are done on paper or digitally. Digital annotation tools make it easier to compare annotations, but are not better from a conceptual point of view. Paper-based annotations are more accessible and easier to set up, but make it easy (too easy) to skip over details. One of these details is the exact boundaries of annotations (which word is included). It is important to pay attention to this even on paper.
+Please note that in principle the entire workflow can be performed on paper or digitally. Digital annotation tools make it easier to compare annotations and force deciding on exact annotation boundaries (which words/characters are to be included). Paper-based annotations are more accessible and easier to set up, but make it (too) easy to skip over details. If you decide to make paper-based annotations, please pay attention to exact annotation boundaries.
+
 
 ## Making Pilot Annotations
 
@@ -34,9 +35,9 @@ The first round of annotations is best done by annotators who are familiar with 
 Annotation guidelines typically contain *a lot* of examples. So you best start collecting interesting/difficult/explanatory examples right away. Examples you find in real texts (possibly with some context) are usually advantageous over made-up ones.
 
 ## Improving Guidelines
-To improve guidelines in this manner, we first need to analyze annotations of the previous "round", before we reformulate/refine the guidelines. This can be done by inspecting the *annotation disagreements*: These are cases in which different annotators made different decisions. Practically, there are two ways of analyzing these disagreements: By discussing them with the annotators, and by counting and inspecting them. 
+To improve guidelines in this manner, we first need to analyze annotations of the previous "round", before we reformulate/refine the guidelines. This can be done by inspecting the *annotation disagreements*: These are cases in which different annotators made different decisions. These can be counted, of course, but it is more informative to talk about the disagreements with the annotators, and to let them explain their decisions.
 
-A discussion with the annotators is fruitful in particular in the first rounds of the process. Once the annotators are trained and annotation guidelines are maturing, a quantitative view might be sufficient. For the latter, a number of metrics have been established (see [Wikipedia: Inter-rater reliability](https://en.wikipedia.org/wiki/Inter-rater_reliability) for an overview; or Artstein, 2017). Analyzing the inter-annotator-agreement quantitatively gives you a number and allows measuring whether you are actually improving your annotation guidelines, but it does not distinguish different kinds of disagreement.
+Such an in-depth discussion with the annotators is fruitful in particular in the first rounds of the process. Once the annotators are trained and annotation guidelines are maturing, a quantitative view might be sufficient. For the latter, a number of metrics have been established (see [Wikipedia: Inter-rater reliability](https://en.wikipedia.org/wiki/Inter-rater_reliability) for an overview; or Artstein, 2017). Analyzing the inter-annotator-agreement quantitatively gives you a number and allows measuring whether you are actually improving your annotation guidelines, but it does not distinguish different kinds of disagreement.
 
 Some of the disagreements will be caused by annotators not paying annotation, or by overlooking something -- annotators are human beings after all. These can be fixed easily, without the need to refine the guidelines. It is good practice to let the annotators fix these mistakes by themselves. 
 
@@ -52,9 +53,13 @@ While going through this iterative process, two process are likely to be intertw
 
 ## List of Annotation Guidelines
 
-- Brunner
-- TimeML
+The following is a (not exhaustive) list of established annotation guidelines for various, mostly linguistic, phenomena. We provide this list as example for different kinds of tasks.
+
+- [Part of speech tagging in the Penn Treebank]({{site.url}}/assets/howto-annotation/Penn-Treebank-Tagset.pdf): The guidelines describe the tag set and its application, and have been developed in the Penn Treebank Project.
+- [TimeML]({{site.url}}/assets/howto-annotation/timeml-1.2.1.pdf): The TimeML guidelines describe the annotation of time expressions and related events in news texts.
+- [Coreference Resolution]({{site.url}}/assets/ontonotes-coref-6.0.pdf): Coreference resolution guidelines have been developed in the OntoNotes project. The goal here is to identify mentions in the text that refer to the same real-world entities.
 
 ## References
 
-Artstein, Ron. Inter-annotator Agreement. In: Ide Nancy & Pustejovsky James (eds.) *Handbook of Linguistic Annotation*. Springer, Dordrecht, 2017.
+Artstein, Ron. Inter-annotator Agreement. In: Ide Nancy & Pustejovsky James (eds.) *Handbook of Linguistic Annotation*. Springer, Dordrecht, 2017. DOI&nbsp;[10.1007/978-94-024-0881-2](https://doi.org/10.1007/978-94-024-0881-2).
+
