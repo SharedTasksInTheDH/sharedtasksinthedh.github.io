@@ -24,7 +24,7 @@ Please note that in principle the entire workflow can be performed on paper or d
 
 ## Making Pilot Annotations
 
-The first round of annotations is best done by annotators who are familiar with the theory that is to be annotated. Nevertheless, it is important that the annotators stick to the annotation guidelines during the annotation process. As with the following annotation rounds, please annotate in parallel and discuss afterwards. It is not necessary to spend a lot of time on preparation. Specifying a list of references or theoretical works, or agreeing on a single text should be sufficient as a starting point. 
+The first round of annotations is best done by annotators who are familiar with the theory that is to be annotated. As with the following annotation rounds, please annotate in parallel and discuss afterwards. It is not necessary to spend a lot of time on preparation. Specifying a list of references or theoretical works, or agreeing on a single text should be sufficient as a starting point. 
 
 **Your time is best spent on discussing annotation disagreements.** In particular in the very first round, many parameters are still undecided and likely to cause disagreement. At the beginning, you need to focus on the big questions: 
 
