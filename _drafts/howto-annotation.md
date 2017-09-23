@@ -13,7 +13,7 @@ excerpt: "This article describes where to start and how to proceed when developi
 
 *This article describes where to start and how to proceed when developing annotation guidelines. It focuses on the scenario that you are creating new guidelines for a phenomenon or concept that has been described theoretically.*
 
-In a single sentence, the goal of annotation guidelines can be formulated as follows: given a theoretically described phenomenon or concept, describe it as generically as possible but as precisely as necessary so that human annotators can annotated the concept or phenomenon in any text without running into problems or ambiguity issues.
+In a single sentence, the goal of annotation guidelines can be formulated as follows: given a theoretically described phenomenon or concept, describe it as generic as possible but as precise as necessary so that human annotators can annotate the concept or phenomenon in any text without running into problems or ambiguity issues.
 
 Developing annotation guidelines is an iterative process: Once a first version has been established, its shortcomings need to be identified and fixed, leading to a second version, which has shortcomings that need to be identified and fixed, etc. This process is displayed schematically in Figure 1. We will describe how to create a first version, and how to come from one version to the next. The most important idea is that in each round, **the same text is annotated by multiple annotators independently**. This is the main device that allows identifying these shortcomings.
 
