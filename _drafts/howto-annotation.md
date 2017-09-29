@@ -26,7 +26,7 @@ Please note that in principle the entire workflow can be performed on paper or d
 
 The first round of annotations is best done by annotators who are familiar with the theory that is to be annotated. As with the following annotation rounds, please annotate in parallel and discuss afterwards. It is not necessary to spend a lot of time on preparation. Specifying a list of references or theoretical works, or agreeing on a single text should be sufficient as a starting point. 
 
-**Your time is best spent on discussing annotation disagreements.** In particular in the very first round, many parameters are still undecided and likely to cause disagreement. At the beginning, you need to focus on the big questions: 
+**Your time is spent best on discussing annotation disagreements.** In particular in the very first round, many parameters are still undecided and likely to cause disagreement. At the beginning, you need to focus on the big questions: 
 
 - What is to be annotated? Every paragraph/sentence/word? Only paragraphs that fulfill a set of conditions?
 - What exactly are the annotation categories? Are they related somehow? It sometimes helps to organize them in a hierarchy, as some categories subsume others (e.g., every *finite verb* is a *verb*).
@@ -48,7 +48,7 @@ Many disagreements will be caused when the annotators encounter cases that are n
 The actual discussions are likely to be lively and intensive, and tend to jump around between different aspects. It is not always easy, but it makes for better guidelines if this process is well structured and documented. Do not try to fix everything at once, but focus on one aspect at a time. 
 
 
-While going through this iterative process, two process are likely to be intertwined: The annotation guidelines get better and the annotators get trained. Both are expected and, in principle, welcomed. But: In the end, the annotation guidelines are supposed to be self-contained and also applicable by untrained (or less trained) annotators. It is therefore important to pay attention not to develop rules within a project that are never written down. It will be much harder to integrate new annotators (even if someone drops out and has to be replaced) unwritten rules exist.
+While going through this iterative process, two processes are likely to be intertwined: The annotation guidelines get better and the annotators get trained. Both are expected and, in principle, welcomed. But: In the end, the annotation guidelines are supposed to be self-contained and also applicable by untrained (or less trained) annotators. It is therefore important to pay attention not to develop rules within a project that are never written down. It will be much harder to integrate new annotators (even if someone drops out and has to be replaced) unwritten rules exist.
 
 
 ## List of Annotation Guidelines
