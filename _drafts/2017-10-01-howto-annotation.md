@@ -4,7 +4,6 @@ title: "How to Develop Annotation Guidelines"
 author:
 - reiter
 lang: en
-excerpt: ""
 logo: 
   url: /assets/generic/IMG_1693.jpg
 phase: 1
