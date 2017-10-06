@@ -12,9 +12,6 @@
 
         <div class="colophon">
           <ul class="colophon-links">
-            <li>
-              <a href="{{ site.baseurl }}{% link _posts/2017-03-31-final-version.md %}">Concept</a>
-            </li>
             {% assign page_list = site.pages | sort: 'index' | where: "add_to_menu","true" %}
             {% for page in page_list %}
 			{% if page.indent %}

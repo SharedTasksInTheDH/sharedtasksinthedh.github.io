@@ -15,7 +15,7 @@ Participants will be invited to a **workshop**, to discuss the different guideli
 
 **Result**: Clearer, more explicit and unambiguous definition of narratological phenomenon; evaluated annotation guidelines.
 
-As of July 17, you can find more detailed information on [this blog post]({{site.baseurl}}/{% link _posts/2017-07-17-phase-1-santa.md %}).
+As of July 17, you can find more detailed information on [this blog post]({% link _posts/2017-07-17-phase-1-santa.md %}).
 
 ## Annotation Phase
 These resulting guidelines will then enter the annotation phase, in which student assistants will annotate a larger corpus. 
