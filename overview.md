@@ -3,7 +3,7 @@ layout: page
 title: Overview
 mtitle: Overview
 index: -2
-add_to_menu: true
+add_to_menu: false
 ---
 
 Our proposed DH shared task works in two phases:
