@@ -7,7 +7,7 @@ add_to_menu: true
 
 Narrative levels are ubiquitous in narration. The phenomenon “narrative level” can roughly described as *embedded narrative*, or story in the story: When one character tells a story to another character. One of the most well-known examples is the book [Arabian Nights](https://en.m.wikipedia.org/wiki/One_Thousand_and_One_Nights), in which Scheherazade tells her husband a new story every night. 
 
-The following list provides some narratological research literature into narrative, as a starting point.
+The following list provides some narratological research literature into narrative levels as a starting point.
 
 ## Introductory
 
