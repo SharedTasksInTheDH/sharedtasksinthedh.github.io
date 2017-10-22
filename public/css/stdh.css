@@ -150,7 +150,12 @@ table td {
     text-align:justify;
   }
 
-
+  div.content {
+     a {
+       text-decoration: underline !important;
+     }
+  
+  }
 
   @page {
     width:6.3in;
