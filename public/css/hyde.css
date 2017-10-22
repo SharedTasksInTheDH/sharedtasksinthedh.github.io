@@ -208,7 +208,7 @@ img {
 
 a {
   color: #222;
-  text-decoration: none;
+  /*text-decoration: none;*/
 }
 a:hover,
 a:focus {
