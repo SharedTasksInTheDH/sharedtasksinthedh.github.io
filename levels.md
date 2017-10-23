@@ -27,7 +27,7 @@ But the definitions of narrative levels are manifold and differ in scope. The fo
 ## Further Reading
 
 - Lämmert, Eberhard. „Das Gefüge der Handlungsstränge“. In: Lämmert, Eberhard. *Bauformen des Erzählens*. Stuttgart: Metzler, 1955. 43-67
-- Mani, Inderjeet. „Computational Narratology“. In: Peter Hühn, John Pier, Wolf Schmid, and Jörg Schönert (eds.). *the living handbook of narratology*. Hamburg: Hamburg University Press, 15. September 2013. http://www.lhn.uni-hamburg.de/article/computational-narratology.
+- Mani, Inderjeet. „Computational Narratology“. In: Peter Hühn, John Pier, Wolf Schmid, and Jörg Schönert (eds.). *the living handbook of narratology*. Hamburg: Hamburg University Press, 15. September 2013. [URL](http://www.lhn.uni-hamburg.de/article/computational-narratology).
 - Nelles, William. Frameworks: Narrative Levels and Embedded Narrative. New York: P. Lang, 1997. 121-158
 - Pier, John. „Metalepsis“. In: Peter Hühn, John Pier, Wolf Schmid, and Jörg Schönert (eds.). *the living handbook of narratology*. Hamburg: Hamburg University Press, 7. März 2012. [URL](http://hup.sub.uni-hamburg.de/lhn/index.php?title=Metalepsis&oldid=1509).
 - Rimmon-Kenan, Shlomith. „Narration: levels and voices.“ In: Rimmon-Kenan, Shlomith. *Narrative fiction*. 2. Aufl. London; New York: Routledge, 2004. 87-106
