@@ -26,6 +26,11 @@ a.catlink {
   margin-top:50px;
 }
 
+div.content a {
+	text-decoration: underline !important;
+}
+
+
 .page .content p a,
 .post .content p a {
 	text-decoration:underline;
@@ -150,12 +155,6 @@ table td {
     text-align:justify;
   }
 
-  div.content {
-     a {
-       text-decoration: underline !important;
-     }
-  
-  }
 
   @page {
     width:6.3in;
