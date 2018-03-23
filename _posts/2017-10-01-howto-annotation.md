@@ -38,7 +38,7 @@ To improve guidelines in this manner, we first need to analyze annotations of th
 
 Such an in-depth discussion with the annotators is fruitful in particular in the first rounds of the process. Once the annotators are trained and annotation guidelines are maturing, a quantitative view might be sufficient. For the latter, a number of metrics have been established (see [Wikipedia: Inter-rater reliability](https://en.wikipedia.org/wiki/Inter-rater_reliability) for an overview; or Artstein, 2017). Analyzing the inter-annotator-agreement quantitatively gives you a number and allows measuring whether you are actually improving your annotation guidelines, but it does not distinguish different kinds of disagreement.
 
-Some of the disagreements will be caused by annotators not paying annotation, or by overlooking something -- annotators are human beings after all. These can be fixed easily, without the need to refine the guidelines. It is good practice to let the annotators fix these mistakes by themselves. 
+Some of the disagreements will be caused by annotators not paying attention, or by overlooking something -- annotators are human beings after all. These can be fixed easily, without the need to refine the guidelines. It is good practice to let the annotators fix these mistakes by themselves. 
 
 Other kinds of disagreement can be expected to have impact on the guidelines: If two annotators made different decisions which are both covered by the annotation guidelines, it is likely that the annotation guidelines are contradictory in this aspect. The source of the contradiction should be identified and resolved. 
 
