@@ -10,7 +10,7 @@ add_to_menu: true
 | June 15 | Submission of annotation guidelines
 | June 25 |Submission of annotations on test corpus
 | July 6 | Submissions of annotations on test corpus, using foreign annotation guidelines 
-| September |Workshop (will likely take place in Germany and take multiple days during the third week of September; we are working on funding) 
+| Sept. 17-19 |Workshop in [Hamburg, Germany](https://en.wikipedia.org/wiki/Hamburg)
 
 
 ## Past Dates
