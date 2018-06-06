@@ -45,7 +45,8 @@ ul.posts li {
   clear:left;
   height:100%;
   margin-bottom:35px;
-	margin-top:20px;
+  margin-top:20px;
+  min-height:180px;
 }
 
 ul.posts li div {
