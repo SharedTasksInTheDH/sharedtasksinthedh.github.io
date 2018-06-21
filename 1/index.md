@@ -1,6 +1,5 @@
 ---
 layout: page
-mtitle: Phase 1
 title: "Phase 1: SANTA"
 subtitle: Systematic Analysis of Narrative Texts through Annotation
 add_to_menu: true
