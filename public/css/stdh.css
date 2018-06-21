@@ -12,6 +12,7 @@
 }
 .headline img {
 	border:0 !important;
+	border-radius:0px;
 }
 
 a.catlink {
@@ -27,7 +28,7 @@ a.catlink {
 }
 
 div.content a {
-	text-decoration: underline !important;
+	text-decoration: underline;
 }
 
 
@@ -46,7 +47,6 @@ ul.posts li {
   height:100%;
   margin-bottom:35px;
   margin-top:20px;
-  min-height:180px;
 }
 
 ul.posts li div {
@@ -65,8 +65,15 @@ ul.posts li div.date {
 
 
 ul.posts li div.title {
-  font-size:1.1rem;
+  font-size:1.7rem;
+  vertical-align:bottom;
+  padding-top:15px;
 }
+
+ul.posts li div.title a {
+  text-decoration:none;
+}
+
 
 ul.posts li div.logo a img {
 	border:0;
@@ -76,8 +83,8 @@ ul.posts li div img {
   position:relative;
   top:5px;
   border:thin solid #454545;
-  float:left;
   width:auto;
+  float:left;
   margin-right:20px;
   max-width:150px;
   max-height:120px;
