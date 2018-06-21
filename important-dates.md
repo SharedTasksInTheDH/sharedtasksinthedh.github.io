@@ -16,7 +16,7 @@ add_to_menu: true
 
 | Date | Event |
 | -- | -- |
-| June 15 | Submission of annotation guidelines
+| June 15, 2018 | Submission of annotation guidelines
 | March 2, 2018 | Presentation at DHd2018 | 
 | September 14, 2017 | Presentation at ENN5 |
 | August 11, 2017 | Presentation at DH2018 |
