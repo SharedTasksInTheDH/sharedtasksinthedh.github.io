@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-index: 100
+index: 900
 add_to_menu: true
 ---
 

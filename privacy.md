@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy
-index: 110
+index: 1000
 add_to_menu: true
 ---
 

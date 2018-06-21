@@ -13,14 +13,14 @@
         <div class="colophon">
           <ul class="colophon-links">
 			<li><a href="{% link overview.md %}">Overview</a></li>
-			<li><a href="{% link _posts/2018-05-23-call-for-participation.md %}">Call for Participation</a></li>
-			<li><a href="{% link _posts/2017-10-01-howto-annotation.md %}">Howto: Guidelines</a></li>
-			<li><a href="{% link 1/corpus.md %}">Corpus</a></li>
-			  
-            {% assign page_list = site.pages | sort: 'index' | where: "add_to_menu","true" %}
+            {% assign pages = site.pages | where: "add_to_menu", "true" %}
+            {% assign posts = site.posts | where: "add_to_menu", "true" %}
+            
+            {% assign page_list = pages | concat: posts %}
+            {% assign page_list = page_list | sort: 'index' %}
             {% for page in page_list %}
 			{% if page.indent %}
-			<li style="margin-left:{{page.indent}}em;">
+			<li style="margin-left:{{page.indent}}em;font-size:0.8em;">
 			{% else %}
             <li>
 			{% endif %}

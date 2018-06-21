@@ -1,12 +1,16 @@
 ---
 layout: post
 title: "How to Develop Annotation Guidelines"
+mtitle: "Developing Guidelines"
 author:
 - reiter
 lang: en
 logo: 
   url: /assets/generic/IMG_1693.jpg
 phase: 1
+add_to_menu: true
+index: 140
+indent: 1
 excerpt: "This article describes where to start and how to proceed when developing annotation guidelines. It focuses on the scenario when you're creating new guidelines for a phenomenon that has been described mostly theoretically."
 ---
 

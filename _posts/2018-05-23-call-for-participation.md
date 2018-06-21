@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Call for Participation"
+mtitle: "Call"
 author:
 - gius
 - reiter
@@ -13,6 +14,9 @@ logo:
     desc: "CC James Cridland"
     url: https://www.flickr.com/photos/jamescridland/613445810/
 phase: 1
+add_to_menu: true
+index: 105
+indent: 1
 excerpt: "**Updated: Workshop dates, evaluation procedure.** We would like to invite you to participate in the 1st Shared Task on Narrative Level Annotation. It is an adaptation of the shared task-format established in the field of Computational Linguistics and Informatics to the field of Literary Studies. The goal of the first phase of this (two-phased) shared task is the collaborative creation of annotation guidelines, which in turn will serve as a basis for the second phase, an automatisation-oriented shared task."
 --- 
 

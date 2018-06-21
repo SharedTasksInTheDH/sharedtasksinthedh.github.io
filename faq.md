@@ -2,7 +2,7 @@
 layout: page
 title: Frequently Asked Questions
 mtitle: FAQ
-index: 10
+index: 800
 add_to_menu: true
 ---
 

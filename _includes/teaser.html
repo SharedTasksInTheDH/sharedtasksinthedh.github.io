@@ -2,7 +2,7 @@
   {% if post.logo %}<div class="logo"><a href="{{ post.url }}"><img src="{{ post.logo.url }}" alt="{{ post.title }}" /></a></div>{% endif %}
   <div class="headline">
     {% if post.phase %}
-    <div class="left"><a href="{{site.baseurl}}/blog/phase{{post.phase}}/"><img src="{{site.baseurl}}/assets/generic/phase1-green.svg" alt="Phase {{post.phase}}"/></a></div>
+    <div class="left"><a href="{{site.baseurl}}/{{post.phase}}/"><img src="{{site.baseurl}}/assets/generic/phase1-green.svg" alt="Phase {{post.phase}}"/></a></div>
     {% endif %}
     <div class="left">
     {% if post.categories[0] %}
