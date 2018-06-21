@@ -15,6 +15,11 @@
 	border-radius:0px;
 }
 
+h1.page-subtitle {
+	font-size:18pt;
+	font-weight:bold;
+}
+
 a.catlink {
   color: #909090 !important;
 }
