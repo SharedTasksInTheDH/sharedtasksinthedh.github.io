@@ -22,18 +22,6 @@ reiter:
     name: nilsreiter.de
     url: http://nilsreiter.de
   bio: After studying Computational Linguistics at Saarland University, Nils Reiter did his [PhD thesis](http://www.ub.uni-heidelberg.de/archiv/17042) at Heidelberg University. He now works as a Post-Doc at the Institute for Natural Language Processing (IMS) at Stuttgart University, and, among other things, coordinates the [Center for Reflected Text Analytics (CRETA)](http://www.creta.uni-stuttgart.de). He is mostly interested in computational literary studies, processing literary texts, annotation and the operationalization of Humanities research questions.
-strötgen:
-  name: Jannik Strötgen
-  email: jannik.stroetgen@mpi-inf.mpg.de
-  affiliation: Max Planck Institute for Informatics, Saarland Informatics Campus, Germany
-  links:
-  - desc: Twitter
-    name: "@jannikstroetgen"
-    url: http://twitter.com/jannikstroetgen
-  - desc: Website
-    name: people.mpi-inf.mpg.de/~jstroetge/
-    url: https://people.mpi-inf.mpg.de/~jstroetge/
-  bio: Jannik Strötgen is a postdoctoral researcher at the Max Planck Institute for Informatics in Saarbrücken. He studied computational linguistics and economics (Magister Artium, 2009) and did his PhD in computer science (2015) at Heidelberg University, where he also worked as a research assistant at the Computer Science department (2010-2015). His research focusses on information extraction, information retrieval, and NLP for the digital humanities. His PhD thesis was on *Domain-sensitive Temporal Tagging for Event-centric Information Retrieval* ([link](http://archiv.ub.uni-heidelberg.de/volltextserver/18357/1/thesis.pdf)), in which context the multilingual and domain-sensitive termporal tagger HeidelTime was developed ([link](https://github.com/HeidelTime/heideltime/)).
 willand:
   name: Marcus Willand
   email: Marcus.Willand@ilw.uni-stuttgart.de
