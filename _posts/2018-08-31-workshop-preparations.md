@@ -45,7 +45,7 @@ The workshop is generously supported by the [Volkswagen foundation](https://www.
 
 It was not a trivial thing to decide on a format to represent the annotations. The way we encode them has to cope with small or long spans, should allow for overlapping, but not including annotations, and should be extensible with attributes. In addition, we want to be able to render the annotations easily in markdown, LaTeX and HTML. In the end, we are using the format showing in the following example:
 
-> [<sup>0</sup> [<sup>3</sup> ”Alas,” ]<sup>3</sup> said the mouse, [<sup>2</sup> ”the world gets smaller every day. At first it was so wide that I ran along and was happy to see walls appearing to my right and left, but these high walls converged so quickly that I’m already in the last room, and there in the corner is the trap into which I must run.”     ”But you’ve only got to run the other way,” ]<sup>1</sup> said the cat, and ate it. ]<sup>0</sup>
+> [<sup>0</sup> [<sup>2</sup> ”Alas,” ]<sup>2</sup> said the mouse, [<sup>1</sup> ”the world gets smaller every day. At first it was so wide that I ran along and was happy to see walls appearing to my right and left, but these high walls converged so quickly that I’m already in the last room, and there in the corner is the trap into which I must run.”     ”But you’ve only got to run the other way,” ]<sup>1</sup> said the cat, and ate it. ]<sup>0</sup>
 
 Each span is enclosed in square brackets, with a number shown both on the opening and closing bracket. If necessary, there is a footnote showing the attribute value assignments.
 
