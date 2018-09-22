@@ -6,7 +6,7 @@ author:
 - reiter
 lang: en
 phase: 1
-add_to_menu: true
+add_to_menu: false
 index: 141
 indent: 1
 excerpt: "This post outlines our plans for the upcoming workshop. It includes a first look at (not yet finalized) agenda and describes what material we generate beforehand, and how."
